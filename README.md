@@ -1,2 +1,3 @@
 # JavaMiniproject
-This is a java mini project bases on hashing (linear probing) implementation.
+This is a java mini project based on hashing (linear probing) implementation.
+
